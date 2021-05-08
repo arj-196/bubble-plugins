@@ -1,0 +1,37 @@
+# IDE
+.idea
+node_modules
+
+# Python
+*.pyc
+
+# pytorch directories
+outputs
+runs
+cache_dir
+
+# Spark
+metastore_db
+spark-warehouse
+
+# Pytests
+.pytest_cache
+.coverage
+.coverage.*
+htmlcov
+
+# Project
+tmp
+*.log
+public
+var/drivers
+protected
+data
+deps
+
+build
+dist
+*.egg-info
+.cache
+z*
+protected
